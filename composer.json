@@ -1,7 +1,8 @@
 {
     "name": "user/php-project-lvl1",
     "bin": [
-        "bin/brain-games"
+        "bin/brain-games",
+        "bin/brain-even"
     ],
     "description": "Brain game",
     "type": "project",
@@ -12,8 +13,17 @@
         }
     ],
     "minimum-stability": "stable",
+    "autoload": {
+        "files": [
+            "src/Cli.php",
+            "src/Even.php"
+        ]
+    },
     "require": {
         "php": ">=7.4.3",
         "wp-cli/php-cli-tools": "^0.11.22"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.9"
     }
 }
