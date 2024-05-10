@@ -1,0 +1,18 @@
+{
+    "name": "user/php-project-lvl1",
+    "bin": [
+        "bin/brain-games"
+    ],
+    "description": "Brain game",
+    "type": "project",
+    "authors": [
+        {
+            "name": "DaniillGolovin",
+            "email": "daniilgolovin656@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4.3"
+    }
+}
