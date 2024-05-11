@@ -1,5 +1,5 @@
 {
-    "name": "user/php-project-lvl1",
+    "name": "daniillgolovin/php-project-lvl1",
     "bin": [
         "bin/brain-games",
         "bin/brain-even"

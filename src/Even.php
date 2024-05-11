@@ -5,7 +5,7 @@ namespace Brain\Even;
 use function cli\line;
 use function cli\prompt;
 
-const GAME_CONDITIONS_EVEN = 'Answer "yes" if number even otherwise answer "no".';
+const GAME_CONDITIONS_EVEN = "Answer \"yes\" if number even otherwise answer \"no\".\n";
 const CORRECT_ANSWER = 3;
 const RANDOM_MIN = 1;
 const RANDOM_MAX = 100;
@@ -41,7 +41,7 @@ function play()
 
 function gameLogic($gameConditionsEven, $dataAttributes)
 {
-    line("Welcome to the Brain Games! \n");
+    line("Welcome to the Brain Games!");
     line($gameConditionsEven);
     $name = prompt("May I have your name?");
     line("Hello, {$name}!");
