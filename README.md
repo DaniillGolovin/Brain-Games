@@ -14,7 +14,10 @@
 ### Пример выполнения игры
 Запуск игры Brain-even:
 `$ brain-even`
-[![asciicast](https://asciinema.org/a/BbCiRMfj9WdIouNYMi1MpZNow.svg)](https://asciinema.org/a/BbCiRMfj9WdIouNYMi1MpZNow)
+[![asciicast](https://asciinema.org/a/JwqCgpJ7iGx4NaCYI4rOEwsGz.svg)](https://asciinema.org/a/JwqCgpJ7iGx4NaCYI4rOEwsGz)
 
 Запуск игры Brain-calc:`$ brain-calc`
-[![asciicast](https://asciinema.org/a/VQxuF7YeFqgtd3VUorZYvLpQX.svg)](https://asciinema.org/a/VQxuF7YeFqgtd3VUorZYvLpQX)
+[![asciicast](https://asciinema.org/a/iOib3cL3bITX5pUZQe9nluZwm.svg)](https://asciinema.org/a/iOib3cL3bITX5pUZQe9nluZwm)
+
+Запуск игры Brain-gcd:`$ brain-gcd`
+[![asciicast](https://asciinema.org/a/qAW3HqT3XmaHwNChePww4E4AZ.svg)](https://asciinema.org/a/qAW3HqT3XmaHwNChePww4E4AZ)
