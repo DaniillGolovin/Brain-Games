@@ -5,8 +5,16 @@
 
 Первый проект из четырёх, в рамках профессии PHP-программист на [Хекслет](https://ru.hexlet.io/professions/php).
 
+### Описание проекта
+Необходимо реализовать набор мини-игр, запускаемых из консоли.
+
+### Установка
+Для глобальной установки выполните команду `$ composer global require daniillgolovin/php-project-lvl1`
+
 ### Пример выполнения игры
 Запуск игры Brain-even:
 `$ brain-even`
-[![asciicast](https://asciinema.org/a/J3Riu6lpB1b3ubh7ASsby1E12.svg)](https://asciinema.org/a/J3Riu6lpB1b3ubh7ASsby1E12)
+[![asciicast](https://asciinema.org/a/BbCiRMfj9WdIouNYMi1MpZNow.svg)](https://asciinema.org/a/BbCiRMfj9WdIouNYMi1MpZNow)
 
+Запуск игры Brain-calc:`$ brain-calc`
+[![asciicast](https://asciinema.org/a/VQxuF7YeFqgtd3VUorZYvLpQX.svg)](https://asciinema.org/a/VQxuF7YeFqgtd3VUorZYvLpQX)
