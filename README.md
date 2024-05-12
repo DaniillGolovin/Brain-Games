@@ -24,3 +24,6 @@
 
 Запуск игры Brain-progression:`$ brain-progression`
 [![asciicast](https://asciinema.org/a/qed68AoUvNK856pM3R8b8JaNk.svg)](https://asciinema.org/a/qed68AoUvNK856pM3R8b8JaNk)
+
+Запуск игры Brain-prime:`$ brain-prime`
+[![asciicast](https://asciinema.org/a/6pQimP5KHKeRtNMCZEDwdui57.svg)](https://asciinema.org/a/6pQimP5KHKeRtNMCZEDwdui57)
