@@ -9,7 +9,8 @@
 Необходимо реализовать набор мини-игр, запускаемых из консоли.
 
 ### Установка
-Для глобальной установки выполните команду `$ composer global require daniillgolovin/php-project-lvl1`
+Для глобальной установки выполните команду
+`$ composer global require daniillgolovin/php-project-lvl1`
 
 ### Пример выполнения игры
 Запуск игры Brain-even:
