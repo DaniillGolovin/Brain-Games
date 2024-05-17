@@ -10,7 +10,7 @@ const DESCRIPTION = 'What is the result of the expression?';
 const RANDOM_MAX = 10;
 const RANDOM_MIN = 0;
 
-function calculate($firstNumber, $secondNumber, $sign)
+function calculate(int $firstNumber, int $secondNumber, string $sign)
 {
     switch ($sign) {
         case '+':
