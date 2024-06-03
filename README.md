@@ -3,8 +3,6 @@
 
 [![Github Actions Status](https://github.com/hexlet-boilerplates/php-package/workflows/PHP%20CI/badge.svg)](https://github.com/DaniillGolovin/php-project-lvl1/actions)
 
-Первый проект из четырёх, в рамках профессии PHP-программист на [Хекслет](https://ru.hexlet.io/professions/php).
-
 ### Описание проекта
 Необходимо реализовать набор мини-игр, запускаемых из консоли.
 
